@@ -128,9 +128,9 @@ const DemoProduct = (props) => {
                                     aria-describedby="checkbox-1" 
                                     type="checkbox" 
                                     className="bg-gray-50 border-gray-300 focus:ring-3 focus:ring-blue-300 h-4 w-4 rounded" 
-                                    value="business_management_system" onChange={handleChange}
+                                    value="onsite_pentest" onChange={handleChange}
                                  />
-                                <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Business Management System</label>
+                                <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Physical security assessment</label>
                             </div>
                             <div className="flex items-center my-4">
                                 <input 
@@ -138,9 +138,9 @@ const DemoProduct = (props) => {
                                     aria-describedby="checkbox-1" 
                                     type="checkbox" 
                                     className="bg-gray-50 border-gray-300 focus:ring-3 focus:ring-blue-300 h-4 w-4 rounded"
-                                    value="school_management_portal" onChange={handleChange}
+                                    value="webapp_assessment" onChange={handleChange}
                                     />
-                                <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">School Management Portal</label>
+                                <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Web Application Assessment</label>
                             </div>
                             <div className="flex items-center my-4">
                                 <input 
@@ -148,9 +148,9 @@ const DemoProduct = (props) => {
                                     aria-describedby="checkbox-1" 
                                     type="checkbox" 
                                     className="bg-gray-50 border-gray-300 focus:ring-3 focus:ring-blue-300 h-4 w-4 rounded" 
-                                    value="payroll_management_system" onChange={handleChange}
+                                    value="ir_recovery" onChange={handleChange}
                                 />
-                                <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Payroll Management System</label>
+                                <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Incident Response + Recovery</label>
                             </div>
                             <div className="flex items-center my-4">
                                 <input 
@@ -158,9 +158,9 @@ const DemoProduct = (props) => {
                                     aria-describedby="checkbox-1" 
                                     type="checkbox" 
                                     className="bg-gray-50 border-gray-300 focus:ring-3 focus:ring-blue-300 h-4 w-4 rounded"
-                                    value="event_management_system" onChange={handleChange}
+                                    value="audit_compliance" onChange={handleChange}
                                 />
-                                <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Event Management System</label>
+                                <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Audit + Compliance</label>
                             </div>
                             {errors && 
                                 <p className="text-red-500 text-sm">{errors.products}</p>
@@ -256,7 +256,7 @@ const DemoProduct = (props) => {
                                 </div>
                                 <div className="flex flex-col">
                                     <h2 className="text-2xl">Office Address</h2>
-                                    <p className="text-gray-400">Ilo Awela, Ota, Ogun State</p>
+                                    <p className="text-gray-400">101 N Haven St, Baltimore, MD 21224</p>
                                 </div>
                             </div>
                             
@@ -267,11 +267,11 @@ const DemoProduct = (props) => {
 
                                 <div className="flex flex-col">
                                     <h2 className="text-2xl">Call Us</h2>
-                                    <p className="text-gray-400">Tel: 08055384406</p>
+                                    <p className="text-gray-400">Tel: 443-492-9871</p>
                                 
                                     <div className='mt-5'>
                                         <h2 className="text-2xl">Send an E-mail</h2>
-                                        <p className="text-gray-400">info@mld.ng</p>
+                                        <p className="text-gray-400">info@redteam.help</p>
                                     </div>
                             
                                 </div>

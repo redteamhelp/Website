@@ -15,7 +15,7 @@ const Services = () => {
                         <div className='flex justify-center'>
                             <div className='w-24 border-b-4 border-blue-900'></div>
                         </div>
-                        <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">We are deeply committed to the growth and success of our clients.</h2>
+                        <h2 className="mt-4 mx-12 text-center text-xl lg:text-2xl font-semibold text-blue-900">Our services are designed to fuel the growth and success of our clients, serving as trusted partners in their journey towards enhanced security and resilience.</h2>
                     </div>
 
                     <div className="px-12" data-aos="fade-down" data-aos-delay="600">
@@ -24,29 +24,27 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Web Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Web Application Assessments</h2>
                                     <p className="text-md font-medium">
-                                        We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
-                                    </p>
+                                    Elevate your web application security with our proven penetration testing service, delivering comprehensive assessments, actionable insights, and enhanced defenses for your digital assets.                                    </p>
                                 </div>
                             </div>
 
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Mobile App Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">Mobile App Assessments</h2>
                                     <p className="text-md font-medium">
-                                        We develop high-quality, custom cross-platform mobile applications that are robust and optimized for performance, scalability, and accessibility.
-                                    </p>
+                                    Leverage our extensive experience in conducting Android and iOS mobile app assessments to fortify the security of your mobile applications.                                    </p>
                                 </div>
                             </div>
 
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">Domain and Hosting Services</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Overall Security Assessments</h2>
                                     <p className="text-md font-medium">
-                                        We provide domain registration and web hosting services to individuals and organizations to enable them gain visibility in the digital space.
+                                    Safeguard your digital assets with our comprehensive penetration testing services. Our skilled team of ethical hackers employs advanced methodologies to identify vulnerabilities across your network, applications, and infrastructure. 
                                     </p>
                                 </div>
                             </div>
@@ -54,9 +52,9 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">General IT Consultations</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Incident Response + Recovery </h2>
                                     <p className="text-md font-medium">
-                                        Our IT consultations service provides expert guidance and support for businesses and individuals looking to optimize their technology solutions.
+                                    Navigate through cybersecurity incidents with confidence using our specialized forensics, incident response, and recovery service. Our experienced team swiftly investigates breaches, gathers evidence, and orchestrates an effective response to minimize impact.
                                     </p>
                                 </div>
                             </div>                    
@@ -64,7 +62,7 @@ const Services = () => {
                     </div>
             </section>
 
-            <section>
+            {/* <section>
                 <div className="m-auto max-w-6xl p-2 md:p-12 h-5/6">
                     <div className="flex flex-col-reverse lg:flex-row py-8 justify-between lg:text-left" data-aos="zoom-out">
                         <div className="lg:w-1/2 flex flex-col lg:mx-4 justify-center">
@@ -85,12 +83,12 @@ const Services = () => {
                             </div>
                             <h3 className="text-3xl  text-blue-900 font-bold">We <span className='font-black'>Collaborate</span></h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collaborate with your existing tech team to scale existing software applications or design customized software applications that suits your everyday need and simplifies various processes.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collaborate with your existing tech team to test and design applications with security awareness in mind.</p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> */}
         </div>
     )
 }
