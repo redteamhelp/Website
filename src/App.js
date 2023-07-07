@@ -34,7 +34,8 @@ function App() {
 
   return (
     <>
-      <Router basename={ProcessingInstruction.env.PUBLIC_URL}>
+      {/* <Router basename={ProcessingInstruction.env.PUBLIC_URL}> */}
+      <Router>
         <ScrollToTop>
           <Routes>
             <Route path="/" element={<Home />} />
