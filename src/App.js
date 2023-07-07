@@ -30,12 +30,13 @@ function App() {
     });
   }, []);
 
-  useDocTitle("RedTeam.help | Security solutions for your organization");
+  useDocTitle("jmpsec.io | Security solutions for your organization");
 
   return (
     <>
       {/* <Router basename={ProcessingInstruction.env.PUBLIC_URL}> */}
-      <Router>
+      <Router basename="/Website">
+      {/* <Router> */}
         <ScrollToTop>
           <Routes>
             <Route path="/" element={<Home />} />

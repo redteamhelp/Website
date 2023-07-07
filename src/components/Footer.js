@@ -91,7 +91,7 @@ const Footer = () => {
                         to="#"
                         className=" hover:text-gray-900"
                     >
-                        RT Solutions (Redteam.help)
+                        RT Solutions (jmpsec.io)
                     </HashLink>. All rights reserved.
                     </div>
                 </div>
