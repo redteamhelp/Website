@@ -34,7 +34,6 @@ function App() {
 
   return (
     <>
-    ReactDOM.render((
       <Router basename={ProcessingInstruction.env.PUBLIC_URL}>
         <ScrollToTop>
           <Routes>
@@ -44,7 +43,6 @@ function App() {
           </Routes>
         </ScrollToTop>
       </Router>
-    ), ...)
     </>
   );
 }
