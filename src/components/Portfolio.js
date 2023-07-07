@@ -20,7 +20,6 @@ const Portfolio = () => {
                                 having worked for renowned companies in the field. With a passion for protecting digital assets 
                                 and a relentless pursuit of excellence, Scooter brings a wealth of knowledge and expertise to our team. 
                                 With a sharp analytical mindset and a commitment to staying ahead of emerging threats, Scooter is dedicated to providing top-notch cybersecurity services.
-                    
                                 </p>
                                 <div className="flex justify-center my-4">
         
@@ -32,7 +31,7 @@ const Portfolio = () => {
                             <div className="m-2 text-justify text-sm">
                                 <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Hank J.</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                Alex R is a highly skilled encryption analysis specialist with government cybersecurity experience. With a keen eye for detail and deep expertise in cryptographic protocols, Alex excels in uncovering vulnerabilities and devising robust security strategies. Their commitment to data privacy and staying ahead of encryption technologies strengthens our clients' digital defenses                                </p>
+                                Hank is a highly skilled encryption analysis specialist with government cybersecurity experience. With a keen eye for detail and deep expertise in cryptographic protocols, Alex excels in uncovering vulnerabilities and devising robust security strategies. Their commitment to data privacy and staying ahead of encryption technologies strengthens our clients' digital defenses                                </p>
                                 <div className="flex justify-center my-4">
 
                                 </div>
@@ -45,8 +44,8 @@ const Portfolio = () => {
                             <div className="m-2 text-justify text-sm">
                             <h4 className="font-semibold my-4 text-lg md:text-2xl text-center mb-4 h-12">Raphael K.</h4>
                                 <p className="text-md font-medium leading-5 h-auto md:h-48">
-                                Pedro is a highly certified web penetration testing expert, holding industry-renowned certifications 
-                                including OSCP, OSWE, GWAPT, and GPEN. With a proven track record of excellence, Pedro brings a wealth of knowledge and expertise in 
+                                Raphael is a highly certified web penetration testing expert, holding industry-renowned certifications 
+                                including OSCP, OSWE, GWAPT, and GPEN. With a proven track record of excellence, Raphael brings a wealth of knowledge and expertise in 
                                 identifying and mitigating web application vulnerabilities. His comprehensive skill set and meticulous approach enable him to deliver top-notch security assessments, 
                                 empowering our clients with actionable insights to fortify their web applications. 
                                 </p>
