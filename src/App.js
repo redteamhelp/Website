@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("jmpsec.io | Security solutions for your organization");
+  useDocTitle("jmpsec.io | JumpSec Security solutions for your organization");
 
   return (
     <>
