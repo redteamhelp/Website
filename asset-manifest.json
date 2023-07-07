@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.35136c03.css",
-    "main.js": "/static/js/main.a85e73e0.js",
-    "static/media/ram.png": "/static/media/ram.03bc6f28d2004fc8bb3c.png",
-    "static/media/consultation.svg": "/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
-    "static/media/web-dev.svg": "/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
-    "static/media/hosting.svg": "/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
-    "static/media/app.svg": "/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
-    "static/media/Web-developer.svg": "/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
-    "static/media/footer.svg": "/static/media/footer.70b54bbe52a797ce69c1.svg",
-    "static/media/web.svg": "/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
-    "index.html": "/index.html",
-    "static/media/hero-bg.svg": "/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
-    "main.35136c03.css.map": "/static/css/main.35136c03.css.map",
-    "main.a85e73e0.js.map": "/static/js/main.a85e73e0.js.map"
+    "main.css": "/Website/static/css/main.932c19fa.css",
+    "main.js": "/Website/static/js/main.cd771135.js",
+    "static/media/ram.png": "/Website/static/media/ram.03bc6f28d2004fc8bb3c.png",
+    "static/media/consultation.svg": "/Website/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/web-dev.svg": "/Website/static/media/web-dev.fd61237124f5b922e412437caf61ea58.svg",
+    "static/media/hosting.svg": "/Website/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/Website/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/Web-developer.svg": "/Website/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "static/media/footer.svg": "/Website/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "static/media/web.svg": "/Website/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/Website/index.html",
+    "static/media/hero-bg.svg": "/Website/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.932c19fa.css.map": "/Website/static/css/main.932c19fa.css.map",
+    "main.cd771135.js.map": "/Website/static/js/main.cd771135.js.map"
   },
   "entrypoints": [
-    "static/css/main.35136c03.css",
-    "static/js/main.a85e73e0.js"
+    "static/css/main.932c19fa.css",
+    "static/js/main.cd771135.js"
   ]
 }
